@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jakep6
+- 👋 Hi, I’m @jakeg96
 - 👀 I’m interested in Computer Science and Cyber Security
-- 🌱 I’m currently learning C and Javascript
+- 🌱 I’m currently learning Python, Go and Javascript
 - 📫 How to reach me jakepgreen6@gmail.com
 
 <!---
